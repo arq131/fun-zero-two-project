@@ -21,9 +21,8 @@
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-    
     top: 350px;
-    color: black;
+    color: white;
     text-align: center;
     font-size: 75px;
     z-index: 3;

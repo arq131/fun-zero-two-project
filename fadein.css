@@ -1,0 +1,14 @@
+.description-box-one {
+    opacity: 0;
+   
+    position: absolute;
+    top: 720px;
+    height: 1500px;
+    transform: translate(0, 40px);
+    transition: all 1s;
+}
+
+.visible {
+    opacity: 1;
+    transform: translate(0, 0);
+}
